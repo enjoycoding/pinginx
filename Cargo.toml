@@ -1,0 +1,12 @@
+[package]
+name = "pinginx"
+version = "0.0.0"
+edition = "2021"
+authors = ["Octoape <octoape@qq.com>"]
+description = "A high-performance HTTP server based on Pingora."
+license = "Apache-2.0"
+readme = "README.md"
+homepage = "https://github.com/enjoycoding/pinginx"
+repository = "https://github.com/enjoycoding/pinginx"
+
+[dependencies]
